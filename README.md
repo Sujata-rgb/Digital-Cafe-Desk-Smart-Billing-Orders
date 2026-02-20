@@ -5,5 +5,3 @@ Digital Cafe Desk – Smart Billing &amp; Orders is a desktop-based application 
 ![Login Screenshot](Login.jpeg)
 ![Dashbaord Screenshot](Dashboard.jpeg)
 ![Menu Screenshot](Menu.jpeg)
-![Order Screenshot](Order.jpeg)
-![Bill Screenshot](Bill.jpeg)
